@@ -1,2 +1,2 @@
-# gik339_gr31_labb2
+# gik339-gr31-labb2
  
